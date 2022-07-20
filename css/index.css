@@ -4,7 +4,7 @@
 }
 
 .jumbotron {
-    background-image: url(/Images/JumbotronBKG.png);
+    background-image: url(../Images/JumbotronBKG.png);
     height: 300px !important;
 }
 
@@ -18,5 +18,5 @@
 }
 
 .picture {
-    background-image: url(/Images/Painting1.png);
+    background-image: url(../Images/Painting1.png);
 }
