@@ -1,0 +1,22 @@
+.contentBlock {
+    display: grid;
+
+}
+
+.jumbotron {
+    background-image: url(/Images/JumbotronBKG.png);
+    height: 300px !important;
+}
+
+
+.display-4 {
+    text-align: center;
+}
+
+.lead {
+    text-align: center;
+}
+
+.picture {
+    background-image: url(/Images/Painting1.png);
+}
