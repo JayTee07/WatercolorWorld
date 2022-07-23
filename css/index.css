@@ -20,3 +20,9 @@
 .picture {
     background-image: url(../Images/Painting1.png);
 }
+
+h1 {
+    font-family: 'Roboto';
+    font-size: 56px;
+    font-weight: 900 !important;
+}
